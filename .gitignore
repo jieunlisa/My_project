@@ -1,2 +1,4 @@
 *.bam
 *.gtf.gz
+*.gtf
+*.bai
